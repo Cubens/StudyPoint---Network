@@ -1,6 +1,6 @@
 # StudyPoint---Network
 
-Excercise1 HTTP:
+__Excercise1 HTTP:
 	1)
 
 	2)
@@ -17,7 +17,7 @@ Excercise1 HTTP:
 
 		a demo of these two can be found at /HTTPservlet
 
-Excercise2 Network:
+__Excercise2 Network:
 
 	1)
 		192.168.0.2
@@ -74,10 +74,20 @@ Excercise2 Network:
 		9)
 
 
-Domain: BeardBeauty.dk
-
-Connected to my digital ocean droplet, running MySql, Tomcat8, NginX
 
 
-Excercise3 Java sockets
+__Excercise3 Java sockets
+
+echo server in package: ex1
+
+Multi client time/echo server with extended protocol in package: ex2
+
+__Excercise4 Threads & Sockets
+
+
+__Domain: BeardBeauty.dk
+
+Connected to my digital ocean droplet, running MySql, Tomcat8, NginX, running with a swapfile, and a snapshot has been made.
+
+tomcat is only accesable via nginx on port 80.
 
