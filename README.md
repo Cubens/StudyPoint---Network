@@ -1,6 +1,6 @@
 # StudyPoint---Network
 
-__Excercise1 HTTP:
+__Excercise1 HTTP:__
 	1)
 
 	2)
@@ -17,7 +17,7 @@ __Excercise1 HTTP:
 
 		a demo of these two can be found at /HTTPservlet
 
-__Excercise2 Network:
+__Excercise2 Network:__
 
 	1)
 		192.168.0.2
@@ -76,16 +76,16 @@ __Excercise2 Network:
 
 
 
-__Excercise3 Java sockets
+__Excercise3 Java sockets__
 
 echo server in package: ex1
 
 Multi client time/echo server with extended protocol in package: ex2
 
-__Excercise4 Threads & Sockets
+__Excercise4 Threads & Sockets__
 
 
-__Domain: BeardBeauty.dk
+__Domain: BeardBeauty.dk__
 
 Connected to my digital ocean droplet, running MySql, Tomcat8, NginX, running with a swapfile, and a snapshot has been made.
 
